@@ -1,0 +1,50 @@
+table.signup
+{
+    border-style: ridge;
+    border-radius: 50px;
+    border-color: blue;
+}
+img.fblogo
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+img.iglogo
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+img.twitterlogo
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+body.mainbody
+{
+    background-image: url(./cih.jpg);
+    background-size: cover;
+    color: white;   
+}
+input
+{
+    border-radius: 25px;
+    border-color: blue;
+}
+input:hover,input:focus
+{
+    font-style: oblique;
+    font-weight: bolder;
+}
+button
+{
+    border-radius: 25px;
+    border-color: blue;
+}
+button:hover,button:focus
+{
+    font-weight: bolder;
+    font-style: oblique;
+}
